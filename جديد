@@ -1,0 +1,52 @@
+<div class="mkna"
+  position:reltive>
+        <img src="imoges/1686704129798.jpg" />
+       
+    </div>
+    <div class="header">
+        <div class="header-x">
+            <a href="css1.html">home</a>
+            <a href="#">ourshop</a>
+            <a href="#">contact</a>
+            <button>sing</button>
+        </div>
+    </div>
+    <div>
+    <div class="landing-pge">
+        <span>Welcome to Python</span>
+        <h1>PREFACE TO THE THIRD EDITION</h1>
+        <p>
+           
+The response to the first and second editions of Python Crash Course has 
+been overwhelmingly positive. More than one million copies are in print, 
+including translations in over 10 languages. I’ve received letters and emails 
+from readers as young as 10, as well as from retirees who want to learn to 
+program in their free time. Python Crash Course is being used in middle 
+schools and high schools, and also in college classes. Students who are 
+assigned more advanced textbooks are using Python Crash Course as a com
+panion text for their classes and finding it a worthwhile supplement. People 
+are using it to enhance their skills on the job, change careers, and start 
+working on their own side projects. In short, people are using the book for 
+the full range of purposes I had hoped they would, and much more.
+The opportunity to write a third edition of Python Crash Course has been 
+thoroughly enjoyable. Although Python is a mature language, it continues to 
+evolve as every language does. My main goal in revising the book is to keep 
+it a well-curated introductory Python course. By reading this book, you’ll 
+learn everything you need to start working on your own projects, and you’ll 
+build a solid foundation for all of your future learning as well. I’ve updated 
+some sections to reflect newer, simpler ways of doing things in Python. I’ve 
+also clarified some sections where certain details of the language were not 
+presented as accurately as they could have been. All the projects have been 
+completely updated using popular, well-maintained libraries that you can 
+confidently use to build your own projects.
+The following is a summary of specific changes that have been made in
+        </p>
+        <div class="mjk">
+            <input/>
+            <button>SEarch</button>
+    <div>
+
+        
+    </div>
+    </div>
+</body>
